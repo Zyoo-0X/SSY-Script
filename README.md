@@ -2,7 +2,7 @@
 ![Preview](Image/Preview.png)
 
 ## Games That Supports
-[Games Support]([https://scannerrbxl.pythonanywhere.com/](https://ssy.pythonanywhere.com/))
+[Games Support](https://ssy.pythonanywhere.com/)
 
 ## Latest Version Script
 ```lua
