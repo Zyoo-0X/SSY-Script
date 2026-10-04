@@ -6,7 +6,7 @@
 
 ## Latest Version Script
 ```lua
-loadstring(game:HttpGet("Script.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Zyoo-0X/SSY-Rbxm-Script/refs/heads/main/out.lua"))()
 ```
 
 ## What Is SSY
