@@ -1,8 +1,10 @@
 # SSY Script
 ![Preview]()
 
-## Games Spupports
-[Games](https://scannerrbxl.pythonanywhere.com/)
+
+## Games That Supports
+[Games Support](https://scannerrbxl.pythonanywhere.com/)
+
 
 ## Latest Version Script
 ```lua
