@@ -1,8 +1,10 @@
-# SSY-Rbxm-Script
-SSY Admin Script
+# SSY Script
+![Preview]()
 
-# Games
-https://scannerrbxl.pythonanywhere.com/
+## Games Spupports
+[Games](https://scannerrbxl.pythonanywhere.com/)
 
-# Script
-Soon
+## Latest Version Script
+```lua
+loadstring(game:HttpGet("Script.lua"))()
+```
