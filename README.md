@@ -1,5 +1,5 @@
 # SSY Script
-![Preview]()
+![Preview](Image/Preview.png)
 
 
 ## Games That Supports
